@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all":"nymeriacraft:block/ascendriawood_leaves"
+  },
+  "render_type": "cutout"
+}
